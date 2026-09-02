@@ -19,7 +19,6 @@ public class Item {
     @Override
     public String toString() {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm:ss");
-
         return this.name + " (created at: " + formatter.format(this.createdAt) + ")";
     }
 }
