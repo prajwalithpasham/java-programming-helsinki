@@ -18,7 +18,7 @@ Maintain a public log of daily progress
 Build a solid foundation for advanced development
 📂 Repository Structure
 
-The repository is organized based on course parts:
+The repository is organized based on course:
 
 Java-Programming-Helsinki/
 │
@@ -46,7 +46,7 @@ Stay consistent daily
 🔄 Part 4 — In Progress
 🛠️ Tech Stack
 Java
-IntelliJ IDEA / VS Code
+VS Code
 Git & GitHub
 💡 Why This Matters
 
